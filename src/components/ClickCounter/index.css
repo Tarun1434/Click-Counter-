@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+height: 100vh;
+}
+.heading {
+  color: black;
+  font-size: 30px;
+}
+.sp {
+  color: #c20a72;
+}
+p{
+  color:#2d3a35
+
+}
+button{
+  cursor: pointer;
+  outline: none;
+  background-color:#007bff ;
+  color:white;
+  padding:10px;
+  font-size:15px;
+}
